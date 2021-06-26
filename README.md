@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kazexhaya
-- 👀 I’m interested in Fullstack Developer
-- 🌱 I’m currently learning JavaScript
+- 👀 I’m interested in Machine Learning
+- 🌱 I’m currently learning Python
 - 📫 How to reach me, you can contact me at: fachrulcreative24@gmail.com
 
 <!---
