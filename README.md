@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kazexhaya
-- 👀 I’m interested in Competitive Programming
+- 👀 I’m interested in A System Software Engineering
 - 🌱 I’m currently learning C
 - 📫 How to reach me, you can contact me at: fachrulrojikin@outlook.com
 
